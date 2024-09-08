@@ -1,0 +1,15 @@
+.link{
+    font-size: 20pt;
+
+}
+.link:link{
+    color: blue;
+}
+
+.link:visited {
+    color: greenyellow; /* Warna untuk hyperlink yang telah dikunjungi */
+}
+.link:hover{
+    color: red;
+}
+
